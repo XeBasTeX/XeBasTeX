@@ -2,7 +2,7 @@
 
 💻 &nbsp; Passionné de sécurité informatique,  de mathématiques computationnelles.
 
-<br><br>
+<br>
 
 ## 📭 Me contacter / Get in touch :
 
