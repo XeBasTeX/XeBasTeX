@@ -1,6 +1,6 @@
-🎓 &nbsp; Actuellement stagiaire à l'équipe ![Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as an intern at the ![Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS)
+🎓 Actuellement stagiaire à l'équipe ![Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as an intern at the ![Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS)
 
-💻 &nbsp; Passionné de sécurité informatique,  de mathématiques computationnelles.
+💻 Passionné par la sécurité informatique, par les réseaux informatiques et par les mathématiques computationnelles.
 
 <br>
 
