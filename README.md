@@ -1,6 +1,8 @@
-🎓 Actuellement stagiaire à l'équipe ![Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as an intern at the ![Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS)
+🎓 Actuellement doctorant à l'équipe ![Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the ![Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS)
 
-💻 Passionné par la sécurité informatique, par les réseaux informatiques et par les mathématiques computationnelles.
+🔬 Développement de méthodes sans-grille (type BLASSO) pour la super-localisation de mesures de Dirac
+
+💻 Passionné par la sécurité informatique, par les réseaux et par les mathématiques computationnelles.
 
 <br>
 
