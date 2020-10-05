@@ -11,7 +11,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastien.laville@inria.fr)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-laville/)
-&nbsp; [![https://www-sop.inria.fr/members/Bastien.Laville/](https://img.shields.io/badge/-BASTIENLAVILLE.FR-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.bastienlaville.fr/)
+&nbsp; [![https://www-sop.inria.fr/members/Bastien.Laville/](https://img.shields.io/badge/-BASTIENLAVILLE.FR-000000?style=for-the-badge&logo=react&logoColor=white)](https://www-sop.inria.fr/members/Bastien.Laville/)
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=XeBasTeX&hide=issues&show_icons=true)
