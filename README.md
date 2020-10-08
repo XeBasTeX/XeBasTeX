@@ -1,8 +1,8 @@
-🎓 Actuellement doctorant à l'équipe [Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the [Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS)
+🎓 Actuellement doctorant à l'équipe [Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the [Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS) ;
 
-🔬 Développement de méthodes sans-grille (type BLASSO) pour la super-localisation de mesures de Dirac
+🔬 Développement de méthodes sans-grille (par exemple BLASSO) pour la super-localisation de mesures de Radon ;
 
-💻 Passionné par la sécurité informatique, par les réseaux et par les mathématiques computationnelles.
+💻 Passionné par les mathématiques computationnelles, par la sécurité informatique et par les réseaux.
 
 <br>
 
