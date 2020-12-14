@@ -2,6 +2,10 @@
 
 🔬 Méthodes variationnelles pour las uper-localisation de molécules type SOFI, par optimisation sur l'espace de mesures de Radon ;
 
+<br>
+  <img src="https://github.com/XeBasTeX/XeBasTeX/blob/master/anim-sfw-2d.gif"/>
+<br>
+
 💻 Passionné par les mathématiques computationnelles, par la sécurité informatique et par les réseaux.
 
 <br>
