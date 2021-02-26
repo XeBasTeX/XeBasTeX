@@ -1,12 +1,12 @@
 🎓 Actuellement doctorant à l'équipe [Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the [Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS) ;
 
-🔬 Méthodes variationnelles pour las uper-localisation de molécules type SOFI, par optimisation sur l'espace de mesures de Radon ;
+🔬 Déconvolution parcimonieuse de pics par optimisation sur l'espace de mesures de Radon. Application en imagerie biomédicale (SOFI, SUSHi, etc.) ;
 
 <br>
   <img src="https://github.com/XeBasTeX/XeBasTeX/blob/master/anim-sfw-2d.gif"/>
 <br>
 
-💻 Passionné par les mathématiques computationnelles, par la sécurité informatique et par les réseaux.
+💻 Passionné par les mathématiques computationnelles, la cryptographie, les réseaux.
 
 <br>
 
