@@ -1,6 +1,6 @@
 🎓 Actuellement doctorant à l'équipe [Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the [Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS) ;
 
-🔬 Déconvolution parcimonieuse de pics par optimisation sur l'espace de mesures de Radon. Application en imagerie biomédicale (SOFI, SUSHi, etc.) ;
+🔬 Déconvolution parcimonieuse de pics ou de courbes par optimisation sur l'espace de mesures de Radon, avec un a priori sur la covariance. Application en imagerie biomédicale (SOFI, CEUS-SOFI, SUSHi, etc.) ;
 
 <br>
   <img src="https://github.com/XeBasTeX/XeBasTeX/blob/master/anim-sfw-2d.gif"/>
