@@ -1,13 +1,16 @@
-🎓 Actuellement doctorant à l'équipe [Morpheme](https://team.inria.fr/morpheme/) (Inria/CNRS) / Currently working as a PhD candidate at the [Morpheme](https://team.inria.fr/morpheme/) Team (Inria/CNRS) ;
+PhD in calculus of variations @ Inria/CNRS, now research scientist @ Thales Alenia Space for optical design.
 
-🔬 Problème inverse sans-grille : déconvolution parcimonieuse de pics ou de courbes par optimisation sur l'espace de mesures de Radon. Application en imagerie biomédicale (fluorescence type SOFI, ULM) ;
+Academic personal collab w/:
+* Théo Bertrand on dynamic off-the-grid method through Riemannian regularisation;
+* Cédric Dubois & Wilfried Mercier on clumps reconstruction from JWST images.
+
+See my [Website](https://www-sop.inria.fr/members/Bastien.Laville/), feel free to reach out.
 
 <br>
   <img src="https://github.com/XeBasTeX/XeBasTeX/blob/master/anim-sfw-2d.gif"/>
 <br>
 
-<br>
-
+<!--
 ## 📭 Me contacter / Get in touch :
 
 
@@ -31,6 +34,7 @@
 
 [![Top langages/top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XeBasTeX)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+-->
 
 ## 📂 Mes projets :
 
