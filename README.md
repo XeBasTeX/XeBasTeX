@@ -1,8 +1,8 @@
 PhD in calculus of variations @ Inria/CNRS, now research scientist @ Thales Alenia Space for optical design.
 
 Academic personal collab w/:
-* Théo Bertrand on dynamic off-the-grid method through Riemannian regularisation;
-* Cédric Dubois & Wilfried Mercier on clumps reconstruction from JWST images.
+* Théo Bertrand (Ceremade) on dynamic off-the-grid method through Riemannian regularisation;
+* Cédric Dubois & Wilfried Mercier (Laboratoire d'Astrophysique de Marseille) on clumps reconstruction from JWST images.
 
 See my [Website](https://www-sop.inria.fr/members/Bastien.Laville/), feel free to reach out.
 
